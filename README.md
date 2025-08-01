@@ -4,8 +4,8 @@ I bought the Archimede IMMP 1.1W inverter in the year 2016 and as these devices 
 I have become a collector of these devices. I reverse-engineered both the hardware and the firmware of multiple Archimede IMMP 1.1W devices to find out how they work. Although they're all sold as the same inverter (EF0840), over time, there were significant changes in the hardware. At first, they were based on Freescale MC9S08AW16 MCUs (AW revisions), but later Electroil added optional BlueConnect support and began to sense more runtime parameters, they had to upgrade the MCU to MC9S08GB60A (BC revisions).
 
 So far, I've got my hands on these revisions (according to the labels on PCBs):
-* IMMP1.5W-AW-03 (firmware version 3.5)
-* IMMP2.2W-BC-07 (firmware version 4.4)
+* IMMP1.5W-AW-03 (firmware versions 3.4, 3.5)
+* IMMP2.2W-BC-07 (firmware versions 4.3, 4.4)
 * IMTP2.2W-BC-10 (firmware version 5.3)
 * IMTP2.2W-BC-12 (firmware version 5.4)
 
