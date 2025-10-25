@@ -9,4 +9,4 @@ So far, I've got my hands on these revisions (according to the labels on PCBs):
 * IMTP2.2W-BC-10 (firmware version 5.3)
 * IMTP2.2W-BC-12 (firmware version 5.4)
 
-I'm still far from the end, so for now, I put here at least the schematics I drew during reverse-engineering the PCBs.
+Meanwhile I already created the firmware with flow sensor support and extended over-the-radio telemetry and updates, but as it's partially based on the stock firmware I decided not to publish it here, so I put here at least the schematics I drew during reverse-engineering the PCBs.
